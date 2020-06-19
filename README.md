@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/Lacivitaa/Alura-Java-Course/blob/master/capa-alura.png" />
+    <img alt="Capa" title="#Capa" src="https://github.com/Lacivitaa/Alura-Java-Course/blob/master/capa-alura.png" />
 </h1>
 
 ## 👨🏻‍💻 Sobre o curso:
