@@ -3,7 +3,7 @@
 </h1>
 
 ## 👨🏻‍💻 Sobre o curso:
-- Desenvolvido na IDE [Eclipse][eclispe]
+- Desenvolvido na IDE [Eclipse](https://www.eclipse.org/)
 - Etapas divididas em:
   - Orientação a objeto
   - Herança e Interface
